@@ -1,2 +1,2 @@
 # go-playground
-## Golang learning repo
+Golang learning repo
